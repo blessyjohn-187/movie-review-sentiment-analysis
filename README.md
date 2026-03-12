@@ -20,5 +20,13 @@ Review: "This movie was amazing and emotional."
 
 Prediction: Positive
 
+## Output Results
+
+### Output 1
+![Output 1](Out1.png)
+
+### Output 2
+![Output 2](Out2.png)
+
 ## Author
 Blessy John
